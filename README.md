@@ -1,3 +1,7 @@
+```bash
+npm run dev
+```
+
 Задание
 Создать сервер на Express.js + MongoDB на основе REST API из предыдущего урока.
 
